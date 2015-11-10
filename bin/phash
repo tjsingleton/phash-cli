@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'phashion/cli'
+
+Phashion::CLI.new.run(ARGV)
